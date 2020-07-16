@@ -7,4 +7,4 @@ Here in 85 columns first five columns reffers x,y,height,width,confidence score 
 and next 80 columns reffers to class predicted values
 at first i have stored the highest class vlaue with a threshold of 0.5 and by using the first 4 columns i have drawn the bounding boxes around the object.
 # Result of an Image
-![](res1.jpg)
+![](res2.jpg)
